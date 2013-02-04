@@ -46,7 +46,6 @@ ul a:hover {
   border-bottom: none;
 }
 
-
 aside {
   width: 280px;
   height: 100%;
@@ -127,6 +126,10 @@ article img {
   height: auto;
   float: left;
   margin: 0 20px 20px 0;
+}
+
+#wrapper {
+  overflow: hidden;
 }
 
 #menu-button {
