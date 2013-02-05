@@ -2,6 +2,6 @@
 
 cd "`dirname $0`/../"
 jekyll --no-auto
-/usr/local/share/npm/bin/lessc --yui-compress -O2 _site/stylesheets/application.css > _site/stylesheets/application.css
+/usr/local/share/npm/bin/lessc --yui-compress -O2 stylesheets/application.css > _site/stylesheets/application.css
 uglifyjs _site/javascripts/application.js --wrap -c -o _site/javascripts/application.js
 image_optim -r _site/images/
