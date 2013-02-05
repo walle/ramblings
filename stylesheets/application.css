@@ -180,3 +180,23 @@ article img {
     display: inline;
   }
 }
+
+@media all and (max-width: 320px) {
+  aside {
+    width: 200;
+    margin-left: -240px;
+  }
+
+  .show-nav aside {
+    margin-left: 0;
+  }
+
+  .show-nav article {
+    margin-right: -100%;
+    margin-left: 240px;
+  }
+
+  aside ul.profiles {
+    font-size: 1em;
+  }
+}
