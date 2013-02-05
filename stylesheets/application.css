@@ -179,6 +179,20 @@ article img {
   #menu-button {
     display: inline;
   }
+
+  #nav:target {
+    display: block;
+    position: static;
+    float: none;
+    width: auto;
+    height: auto;
+    margin: 0;
+    text-align: center;
+  }
+
+  #nav:target #menu-button {
+    display: none;
+  }
 }
 
 @media all and (max-width: 320px) {
