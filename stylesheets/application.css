@@ -9,7 +9,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-  line-height: 1.4em;
 }
 
 h1 {
@@ -126,6 +125,18 @@ article img {
   height: auto;
   float: left;
   margin: 0 20px 20px 0;
+}
+
+article .links {
+  float: right;
+  text-align: right;
+  margin-top: -3.9em;
+}
+
+article .links ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 #wrapper {
