@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" type="text/css" href="./application.css">
+    <title>Mem</title>
+  </head>
+  <body class="options">
+    <div id="game">
+      <div id="options">
+        <h1>Options</h1>
+        <form>
+          <ul>
+            <li>
+              <label id="player-name-label" for="player-name">Your name</label>
+              <input type="text" id="player-name" value="Player name" />
+            </li>
+            <li>
+              <h2>Language</h2>
+              <ul>
+                <li>
+                  <label>English <input type="radio" name="selectedLanguage" value="en" /></label>
+                </li>
+                <li>
+                  <label>Svenska <input type="radio" name="selectedLanguage" value="sv" /></label>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <input type="submit" id="save-button" value="Save" />
+            </li>
+          </ul>
+        </form>
+      </div>
+    </div>
+    <script type="text/javascript" src="./options.js"></script>
+  </body>
+</html>
