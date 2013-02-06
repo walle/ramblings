@@ -6,7 +6,7 @@ title: Don't underestimate the work needed to do it yourself
 
 And let go of some control for the greater good.
 
-When I started building this page I began with only a html page to mock up the layout and then some css and javascript
+When I started building this page I began with only an html page to mock up the layout and then some css and javascript
 to make it look pretty. When this stage was complete I had to think about how to host it. Static html felt like the
 way to go.
 
