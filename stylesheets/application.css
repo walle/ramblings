@@ -110,7 +110,7 @@ nav ul li:last-child {
   border-bottom: none;
 }
 
-article {
+section {
   width: 60%;
   max-width: 720px;
   float: left;
@@ -142,6 +142,13 @@ article .links ul {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+#particle-field {
+  position: fixed;
+  top: 0;
+  right: 0;
+  cursor: pointer;
 }
 
 #wrapper {
@@ -178,18 +185,21 @@ article .links ul {
     margin-left: 0;
   }
 
-  .show-nav article {
+  .show-nav section {
     margin-right: -100%;
     margin-left: 320px;
   }
 
-  article {
+  section {
     padding: 20px;
     margin-left: 20%;
   }
 
   article img {
     float: none;
+  }
+  #particle-field {
+    display: none;
   }
 
   #menu-button {
