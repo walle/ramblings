@@ -223,7 +223,7 @@ article .links ul {
 
 @media all and (max-width: 320px) {
   aside {
-    width: 200;
+    width: 200px;
     margin-left: -240px;
   }
 
