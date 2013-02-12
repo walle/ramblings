@@ -1,3 +1,7 @@
+---
+layout: default
+title: Thoughts about licensing and app prices
+---
 # Thoughts about licensing and app prices - draft
 
 Tldr; Every app developer who wants to release their app for free should take some amount of money for the app and release the code as open source.
