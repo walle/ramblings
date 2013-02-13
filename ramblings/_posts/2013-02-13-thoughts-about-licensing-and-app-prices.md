@@ -6,6 +6,8 @@ title: Thoughts about licensing and app prices
 
 TL;DR Every app developer who wants to release their app for free should take some amount of money for the app and release the code as open source.
 
+## Thoughts
+
 I have been thinking a bit about apps, the price of apps and open source licenses.
 
 Since I am an android user this will mostly reflect the Google Play store (and other competing stores).
@@ -18,7 +20,7 @@ When I made my first app [mem](/projects/mem), my thought wasn't to make any mon
 
 But when releasing I had an idea:
 
-I have been sitting here for a couple of hours and building the app (it's made in JavaScript and I used a desktop browser to build it). Why shouldn't I take a little bit of money for that work. And then I could release the source code if someone wants to play the, game but is able to build it themselves. The pricing would also work as a "pay if you think it's worth it" thing.
+I have been sitting here for a couple of hours and building the app (it's made in JavaScript and I used a desktop browser to develop it). Why shouldn't I take a little bit of money for that work (packaging the app for easy download and usage). And then I could release the source code if someone wants to play the, game but is able to build it themselves. The pricing would also work as a "pay if you think it's worth it" thing. I also made it available to test out online on the project page.
 
 In my mind this has some benefits:
 
