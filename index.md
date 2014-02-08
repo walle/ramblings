@@ -10,7 +10,7 @@ topics and gather my spare time projects.
 
 ![Portrait](/images/fredrik.jpg)
 
-I am currently working at [Limepark AB](http://limepark.se) in Jönköping, Sweden. Where I do web development mainly in
+I am currently working at [Limepark AB](http://limepark.se) in Malmö, Sweden. Where I do web development mainly in
 Java and JavaScript. I work with both front-end and back-end coding.
 
 When working on my own projects I use many different languages and techniques.
