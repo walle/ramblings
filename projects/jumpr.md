@@ -15,3 +15,5 @@ title: Jumpr
 Jumpr is a fast paced run and jump game. Quite unforgiving and all about timing your jumps.
 
 Made as a weekend hack to get back into game development. I feel that it went well, so I will be writing a new game using the technologies I lernt.
+
+![GIF of the gameplay](http://i.imgur.com/ZlWXgW7.gif)
