@@ -4,6 +4,7 @@ title: Projects
 ---
 # Projects
 
+* [Jumpr - Fast paced game for IOS and Android](/projects/jumpr)
 * [Gimli - Convert markup to PDF](/projects/gimli)
 * [Gas - Switch between git authors](/projects/gas)
 * [wsdl2phpgenerator - Generate PHP classes from a WSDL file](/projects/wsdl2phpgenerator)
