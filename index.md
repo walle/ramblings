@@ -5,13 +5,10 @@ layout: default
 
 Hello there!
 
-My name is Fredrik Wallgren, I am a Swedish developer and this is where I ramble on about various
+My name is Fredrik Wallgren, I am a Swedish developer currently living in Malmö, Sweden, and this is where I ramble on about various
 topics and gather my spare time projects.
 
 ![Portrait](/images/fredrik.jpg)
-
-I am currently working at [Limepark AB](http://limepark.se) in Malmö, Sweden. Where I do web development mainly in
-Java and JavaScript. I work with both front-end and back-end coding.
 
 When working on my own projects I use many different languages and techniques.
 
