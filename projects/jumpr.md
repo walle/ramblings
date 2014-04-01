@@ -8,7 +8,7 @@ title: Jumpr
   <ul>
     <li><a href="https://play.google.com/store/apps/details?id=me.ramblingsby.jumprpaid">Android version</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=me.ramblingsby.jumpr">Free version for Android (Ads)</a></li>
-    <li><a href="https://itunes.apple.com/us/app/jumpr/id838364189?ls=1&mt=8">IOS version</a></li>
+    <li><a href="https://itunes.apple.com/us/app/jumpr/id838364189?ls=1&amp;mt=8">IOS version</a></li>
   </ul>
 </div>
 
