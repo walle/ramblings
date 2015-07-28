@@ -6,7 +6,7 @@ layout: default
 
 Hello there!
 
-My name is Fredrik Wallgren, I am a Swedish developer currently living in Malmö, Sweden where I run my company [Sayon](http://sayon.se), and this is where I ramble on about various
+My name is Fredrik Wallgren, I am a Swedish developer currently living in Skövde, Sweden where I run my company [Sayon](http://sayon.se), and this is where I ramble on about various
 topics and gather my spare time projects.
 
 ![Portrait](/images/fredrik.jpg)
